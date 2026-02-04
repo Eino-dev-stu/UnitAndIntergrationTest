@@ -1,4 +1,4 @@
-## Unitest, intergration and REST API test
+## Unitest, intergration and REST API test documentation
 
 ### REST API testing 
 Postman showing the endpoint http://localhost:3000/color works as wanted
